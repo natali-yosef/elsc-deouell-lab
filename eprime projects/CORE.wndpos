@@ -1,0 +1,10 @@
+[Object0]
+Name=updateSizeScreen
+WindowState=0
+Left=26
+Top=26
+Width=796
+Height=327
+[Object1]
+Name=portUpdate
+WindowState=2
